@@ -1,5 +1,5 @@
 # Placement-Analysis
-Statistical analysis and predictive modelling regarding placement and salary of the students of a business school in India on the basis of their academic records. 
+ 
 ● Analysed statistically and predicted salary and placement of the students of an Indian business school
 on the basis of their academic records.
 ● Implemented data cleaning, Exploratory Data Analysis , visualization , data preprocessing and
